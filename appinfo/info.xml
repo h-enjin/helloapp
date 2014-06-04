@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+	<id>helloapp</id>
+	<name>HelloApp</name>
+	<version>1.0</version>
+	<licence>AGPL</licence>
+	<author>Enjin</author>
+	<require>6</require>
+	<shipped>true</shipped>
+	<description>はろーわーるどを表示するだけ</description>
+</info>
